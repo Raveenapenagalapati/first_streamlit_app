@@ -1,1 +1,2 @@
-created the main phython file
+import streamlit
+streamlit.title('MY parents new healty dinner')
